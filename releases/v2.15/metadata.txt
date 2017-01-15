@@ -1,0 +1,48 @@
+File: v2ray-windows-32.zip
+Size: 2295302
+SHA1: d94bdd569ed139e81edea71d7a2c1e8ef975510f
+
+File: v2ray-windows-64.zip
+Size: 2398235
+SHA1: 8423c5442ecd6e61255bdf39c6a9b51f21e4ff71
+
+File: v2ray-macos.zip
+Size: 3427793
+SHA1: aecca1891752e2e50ceb6ddef535674cf687edfb
+
+File: v2ray-linux-32.zip
+Size: 2337753
+SHA1: 70cb1b3a185bbe9011c7acbecaa9ef7f71b6a588
+
+File: v2ray-linux-64.zip
+Size: 2433658
+SHA1: 8c34d6fda131b542858f01cc4b343ecdc560de74
+
+File: v2ray-linux-arm.zip
+Size: 2282327
+SHA1: 08c162737001b289e6559c030aa1abd32761413a
+
+File: v2ray-linux-arm64.zip
+Size: 2278125
+SHA1: f886072611e8613212a5648701cd880569f5b657
+
+File: v2ray-linux-mips64.zip
+Size: 2170654
+SHA1: 8dcf13323b4dfee814336abe2b8721828ef9ae9b
+
+File: v2ray-freebsd-32.zip
+Size: 2340643
+SHA1: af224b5b993aec827a0076dbffbb534603fa2d28
+
+File: v2ray-freebsd-64.zip
+Size: 2434654
+SHA1: 782d81d949f3e9a8b94d6094a4ba29874530eedd
+
+File: v2ray-openbsd-32.zip
+Size: 2332745
+SHA1: 1c579fd78eeff62d03dca04bffd8c94b81656a8a
+
+File: v2ray-openbsd-64.zip
+Size: 2429271
+SHA1: 0c683dcf1172430e778b324238831951492b0f31
+
